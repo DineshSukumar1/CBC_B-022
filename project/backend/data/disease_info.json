@@ -1,0 +1,331 @@
+{
+  "classes": [
+    "Apple___Apple_scab",
+    "Apple___Black_rot",
+    "Apple___Cedar_apple_rust",
+    "Apple___healthy",
+    "Corn_(maize)___Cercospora_leaf_spot",
+    "Corn_(maize)___Common_rust",
+    "Corn_(maize)___Northern_Leaf_Blight",
+    "Corn_(maize)___healthy",
+    "Grape___Black_rot",
+    "Grape___Esca_(Black_Measles)",
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "Grape___healthy",
+    "Potato___Early_blight",
+    "Potato___Late_blight",
+    "Potato___healthy",
+    "Tomato___Bacterial_spot",
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___Leaf_Mold",
+    "Tomato___Septoria_leaf_spot",
+    "Tomato___Spider_mites",
+    "Tomato___Target_Spot",
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "Tomato___Tomato_mosaic_virus",
+    "Tomato___healthy"
+  ],
+  "diseases": {
+    "Apple___Apple_scab": {
+      "symptoms": "Olive-green spots on leaves, dark scabby lesions on fruit",
+      "treatment": "Apply fungicides containing captan or mancozeb, remove infected leaves",
+      "prevention": "Use disease-resistant varieties, maintain proper pruning, remove fallen leaves",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected leaves",
+        "Practice proper pruning",
+        "Remove fallen leaves",
+        "Use disease-resistant varieties"
+      ]
+    },
+    "Apple___Black_rot": {
+      "symptoms": "Brown spots on leaves, black rot on fruit, cankers on branches",
+      "treatment": "Apply fungicides containing captan, remove infected plant parts",
+      "prevention": "Use disease-resistant varieties, maintain proper pruning, remove infected plant parts",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected plant parts",
+        "Practice proper pruning",
+        "Remove fallen leaves",
+        "Use disease-resistant varieties"
+      ]
+    },
+    "Apple___Cedar_apple_rust": {
+      "symptoms": "Yellow spots on leaves, orange gelatinous growths on leaves and fruit",
+      "treatment": "Apply fungicides containing myclobutanil, remove nearby cedar trees",
+      "prevention": "Use disease-resistant varieties, remove nearby cedar trees, maintain proper spacing",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove nearby cedar trees",
+        "Use disease-resistant varieties",
+        "Maintain proper spacing",
+        "Monitor regularly"
+      ]
+    },
+    "Apple___healthy": {
+      "symptoms": "No visible symptoms of disease",
+      "treatment": "No treatment needed",
+      "prevention": "Continue good cultural practices",
+      "recommendations": [
+        "Maintain good cultural practices",
+        "Monitor regularly",
+        "Practice proper pruning",
+        "Maintain proper nutrition",
+        "Use proper irrigation"
+      ]
+    },
+    "Corn_(maize)___Cercospora_leaf_spot": {
+      "symptoms": "Small, circular spots with gray centers and dark borders on leaves",
+      "treatment": "Apply fungicides containing azoxystrobin or pyraclostrobin, remove infected leaves",
+      "prevention": "Use disease-resistant varieties, practice crop rotation, maintain proper plant spacing",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected leaves",
+        "Practice crop rotation",
+        "Maintain proper plant spacing",
+        "Remove and destroy infected plant debris"
+      ]
+    },
+    "Corn_(maize)___Common_rust": {
+      "symptoms": "Rust-colored pustules on leaves",
+      "treatment": "Apply fungicides containing azoxystrobin or pyraclostrobin, remove infected leaves",
+      "prevention": "Use disease-resistant varieties, practice crop rotation, maintain proper plant spacing",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected leaves",
+        "Practice crop rotation",
+        "Maintain proper plant spacing",
+        "Remove and destroy infected plant debris"
+      ]
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+      "symptoms": "Dark, water-soaked lesions on leaves",
+      "treatment": "Apply fungicides containing mancozeb or chlorothalonil, remove infected leaves",
+      "prevention": "Use disease-resistant varieties, practice crop rotation, maintain proper plant spacing",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected leaves",
+        "Practice crop rotation",
+        "Maintain proper plant spacing",
+        "Remove and destroy infected plant debris"
+      ]
+    },
+    "Corn_(maize)___healthy": {
+      "symptoms": "No visible symptoms of disease",
+      "treatment": "No treatment needed",
+      "prevention": "Continue good cultural practices",
+      "recommendations": [
+        "Maintain good cultural practices",
+        "Monitor regularly",
+        "Practice crop rotation",
+        "Maintain proper plant spacing",
+        "Use proper irrigation"
+      ]
+    },
+    "Grape___Black_rot": {
+      "symptoms": "Black, circular lesions on leaves and fruit",
+      "treatment": "Apply fungicides containing captan or thiophanate-methyl, remove infected plant parts",
+      "prevention": "Use disease-resistant varieties, maintain proper pruning, remove infected plant parts",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected plant parts",
+        "Practice proper pruning",
+        "Remove fallen leaves",
+        "Use disease-resistant varieties"
+      ]
+    },
+    "Grape___Esca_(Black_Measles)": {
+      "symptoms": "Dark, circular lesions on leaves and fruit",
+      "treatment": "Apply fungicides containing captan or thiophanate-methyl, remove infected plant parts",
+      "prevention": "Use disease-resistant varieties, maintain proper pruning, remove infected plant parts",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected plant parts",
+        "Practice proper pruning",
+        "Remove fallen leaves",
+        "Use disease-resistant varieties"
+      ]
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+      "symptoms": "Dark, circular lesions on leaves and fruit",
+      "treatment": "Apply fungicides containing captan or thiophanate-methyl, remove infected plant parts",
+      "prevention": "Use disease-resistant varieties, maintain proper pruning, remove infected plant parts",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected plant parts",
+        "Practice proper pruning",
+        "Remove fallen leaves",
+        "Use disease-resistant varieties"
+      ]
+    },
+    "Grape___healthy": {
+      "symptoms": "No visible symptoms of disease",
+      "treatment": "No treatment needed",
+      "prevention": "Continue good cultural practices",
+      "recommendations": [
+        "Maintain good cultural practices",
+        "Monitor regularly",
+        "Practice proper pruning",
+        "Maintain proper nutrition",
+        "Use proper irrigation"
+      ]
+    },
+    "Potato___Early_blight": {
+      "symptoms": "Dark brown spots with concentric rings on leaves, yellowing of older leaves",
+      "treatment": "Apply fungicides containing chlorothalonil, remove infected leaves",
+      "prevention": "Use disease-resistant varieties, maintain proper spacing, avoid overhead watering",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected leaves",
+        "Improve air circulation",
+        "Avoid overhead watering",
+        "Use proper plant spacing"
+      ]
+    },
+    "Potato___Late_blight": {
+      "symptoms": "Dark, water-soaked lesions on leaves and stems, white fungal growth on underside",
+      "treatment": "Apply copper-based fungicides, remove and destroy infected plants",
+      "prevention": "Use disease-resistant varieties, maintain proper spacing, avoid overhead watering",
+      "recommendations": [
+        "Apply copper-based fungicide",
+        "Remove infected plants",
+        "Improve air circulation",
+        "Avoid overhead watering",
+        "Use proper plant spacing"
+      ]
+    },
+    "Potato___healthy": {
+      "symptoms": "No visible symptoms of disease",
+      "treatment": "No treatment needed",
+      "prevention": "Continue good cultural practices",
+      "recommendations": [
+        "Maintain good cultural practices",
+        "Monitor regularly",
+        "Use proper irrigation",
+        "Maintain proper nutrition",
+        "Practice crop rotation"
+      ]
+    },
+    "Tomato___Bacterial_spot": {
+      "symptoms": "Small, circular spots with gray centers and dark borders on leaves",
+      "treatment": "Apply fungicides containing mancozeb or chlorothalonil, remove infected leaves",
+      "prevention": "Use disease-resistant varieties, practice crop rotation, maintain proper plant spacing",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected leaves",
+        "Practice crop rotation",
+        "Maintain proper plant spacing",
+        "Remove and destroy infected plant debris"
+      ]
+    },
+    "Tomato___Early_blight": {
+      "symptoms": "Dark brown spots with concentric rings on leaves, yellowing of older leaves, stem lesions",
+      "treatment": "Apply fungicides containing chlorothalonil or copper, remove infected leaves",
+      "prevention": "Use disease-resistant varieties, maintain proper plant spacing, avoid overhead watering",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove and destroy infected leaves",
+        "Improve air circulation around plants",
+        "Avoid overhead watering",
+        "Use mulch to prevent soil splash"
+      ]
+    },
+    "Tomato___Late_blight": {
+      "symptoms": "Dark, water-soaked lesions on leaves and stems, white fungal growth on underside of leaves",
+      "treatment": "Apply copper-based fungicides, remove and destroy infected plants",
+      "prevention": "Use disease-resistant varieties, maintain proper spacing, avoid overhead watering",
+      "recommendations": [
+        "Apply copper-based fungicide",
+        "Remove and destroy infected plants",
+        "Improve air circulation",
+        "Avoid overhead watering",
+        "Use drip irrigation"
+      ]
+    },
+    "Tomato___Leaf_Mold": {
+      "symptoms": "Yellow spots on upper leaf surface, grayish-white mold on underside",
+      "treatment": "Apply fungicides containing chlorothalonil, improve air circulation",
+      "prevention": "Use disease-resistant varieties, maintain proper spacing, control humidity",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Improve air circulation",
+        "Control greenhouse humidity",
+        "Remove infected leaves",
+        "Use proper plant spacing"
+      ]
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "symptoms": "Small, circular spots with gray centers and dark borders on leaves",
+      "treatment": "Apply fungicides containing chlorothalonil, remove infected leaves",
+      "prevention": "Use disease-resistant varieties, avoid overhead watering, maintain proper spacing",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected leaves",
+        "Avoid overhead watering",
+        "Use proper plant spacing",
+        "Rotate crops"
+      ]
+    },
+    "Tomato___Spider_mites": {
+      "symptoms": "Fine webbing on leaves, stippled or bronzed leaves, leaf drop",
+      "treatment": "Apply miticides, increase humidity, use predatory mites",
+      "prevention": "Regular monitoring, maintain proper humidity, avoid water stress",
+      "recommendations": [
+        "Apply miticide treatment",
+        "Increase humidity",
+        "Use predatory mites",
+        "Regular monitoring",
+        "Avoid water stress"
+      ]
+    },
+    "Tomato___Target_Spot": {
+      "symptoms": "Dark brown spots with concentric rings, yellow halos around spots",
+      "treatment": "Apply fungicides containing chlorothalonil, remove infected leaves",
+      "prevention": "Use disease-resistant varieties, maintain proper spacing, avoid overhead watering",
+      "recommendations": [
+        "Apply fungicide treatment",
+        "Remove infected leaves",
+        "Improve air circulation",
+        "Avoid overhead watering",
+        "Use proper plant spacing"
+      ]
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+      "symptoms": "Upward curling of leaves, yellowing, stunted growth",
+      "treatment": "Remove infected plants, control whitefly population",
+      "prevention": "Use virus-resistant varieties, control whiteflies, use reflective mulches",
+      "recommendations": [
+        "Remove infected plants",
+        "Control whitefly population",
+        "Use virus-resistant varieties",
+        "Use reflective mulches",
+        "Monitor regularly"
+      ]
+    },
+    "Tomato___Tomato_mosaic_virus": {
+      "symptoms": "Mottled light and dark green patterns on leaves, leaf distortion",
+      "treatment": "Remove infected plants, control aphids",
+      "prevention": "Use virus-resistant varieties, control aphids, practice good hygiene",
+      "recommendations": [
+        "Remove infected plants",
+        "Control aphid population",
+        "Use virus-resistant varieties",
+        "Practice good hygiene",
+        "Monitor regularly"
+      ]
+    },
+    "Tomato___healthy": {
+      "symptoms": "No visible symptoms of disease",
+      "treatment": "No treatment needed",
+      "prevention": "Continue good cultural practices",
+      "recommendations": [
+        "Maintain good cultural practices",
+        "Monitor regularly",
+        "Use proper irrigation",
+        "Maintain proper nutrition",
+        "Practice crop rotation"
+      ]
+    }
+  }
+} 

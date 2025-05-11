@@ -1,0 +1,83 @@
+{
+  "mockTutorials": [
+    {
+      "id": "upi-basics",
+      "title": "UPI Payment Basics",
+      "kannadaTitle": "ಯುಪಿಐ ಪಾವತಿ ಮೂಲಾಂಶಗಳು",
+      "category": "upi",
+      "slides": [
+        {
+          "title": "Introduction to UPI",
+          "kannadaTitle": "ಯುಪಿಐ ಪರಿಚಯ",
+          "content": "Unified Payments Interface (UPI) is a system that powers multiple bank accounts into a single mobile application. It allows instant money transfer through mobile devices round the clock 24x7 and 365 days.",
+          "kannadaContent": "ಯುನಿಫೈಡ್ ಪೇಮೆಂಟ್ಸ್ ಇಂಟರ್ಫೇಸ್ (UPI) ಎನ್ನುವುದು ಅನೇಕ ಬ್ಯಾಂಕ್ ಖಾತೆಗಳನ್ನು ಒಂದೇ ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಶಕ್ತಿ ನೀಡುವ ವ್ಯವಸ್ಥೆಯಾಗಿದೆ. ಇದು 24x7 ಮತ್ತು 365 ದಿನಗಳ ಕಾಲ ಮೊಬೈಲ್ ಸಾಧನಗಳ ಮೂಲಕ ತಕ್ಷಣದ ಹಣ ವರ್ಗಾವಣೆಗೆ ಅನುಮತಿಸುತ್ತದೆ.",
+          "imageUrl": "upi-intro.jpg"
+        },
+        {
+          "title": "Setting Up UPI",
+          "kannadaTitle": "ಯುಪಿಐ ಸೆಟಪ್ ಮಾಡುವುದು",
+          "content": "Download a UPI app like BHIM, Google Pay, PhonePe, or Paytm. Register with your phone number linked to your bank account. Create a UPI PIN for secure transactions.",
+          "kannadaContent": "BHIM, Google Pay, PhonePe, ಅಥವಾ Paytm ನಂತಹ UPI ಅಪ್ಲಿಕೇಶನ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ. ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಲಿಂಕ್ ಮಾಡಲಾದ ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ನೋಂದಾಯಿಸಿ. ಸುರಕ್ಷಿತ ವಹಿವಾಟುಗಳಿಗಾಗಿ UPI PIN ರಚಿಸಿ.",
+          "imageUrl": "upi-setup.jpg"
+        },
+        {
+          "title": "Making a UPI Payment",
+          "kannadaTitle": "ಯುಪಿಐ ಪಾವತಿ ಮಾಡುವುದು",
+          "content": "To make a payment, you can scan a QR code, enter a UPI ID, or use a phone number linked to UPI. Enter the amount, add a note if needed, enter your UPI PIN, and confirm.",
+          "kannadaContent": "ಪಾವತಿ ಮಾಡಲು, ನೀವು QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಬಹುದು, UPI ID ಯನ್ನು ನಮೂದಿಸಬಹುದು, ಅಥವಾ UPI ಗೆ ಲಿಂಕ್ ಮಾಡಲಾದ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಬಳಸಬಹುದು. ಮೊತ್ತವನ್ನು ನಮೂದಿಸಿ, ಅಗತ್ಯವಿದ್ದರೆ ಟಿಪ್ಪಣಿ ಸೇರಿಸಿ, ನಿಮ್ಮ UPI PIN ನಮೂದಿಸಿ ಮತ್ತು ಖಚಿತಪಡಿಸಿ.",
+          "imageUrl": "upi-payment.jpg"
+        },
+        {
+          "title": "UPI Safety Tips",
+          "kannadaTitle": "ಯುಪಿಐ ಸುರಕ್ಷತಾ ಸಲಹೆಗಳು",
+          "content": "Never share your UPI PIN with anyone. Be cautious of unknown payment requests. Verify recipient details before making payments. Report suspicious activities immediately to your bank.",
+          "kannadaContent": "ನಿಮ್ಮ UPI PIN ಅನ್ನು ಯಾರೊಂದಿಗೂ ಹಂಚಿಕೊಳ್ಳಬೇಡಿ. ತಿಳಿಯದ ಪಾವತಿ ವಿನಂತಿಗಳ ಬಗ್ಗೆ ಎಚ್ಚರವಹಿಸಿ. ಪಾವತಿಗಳನ್ನು ಮಾಡುವ ಮೊದಲು ಸ್ವೀಕರಿಸುವವರ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ. ಅನುಮಾನಾಸ್ಪದ ಚಟುವಟಿಕೆಗಳನ್ನು ತಕ್ಷಣವೇ ನಿಮ್ಮ ಬ್ಯಾಂಕಿಗೆ ವರದಿ ಮಾಡಿ.",
+          "imageUrl": "upi-safety.jpg"
+        }
+      ]
+    },
+    {
+      "id": "internet-basics",
+      "title": "Internet Basics for Beginners",
+      "kannadaTitle": "ಪ್ರಾರಂಭಿಕರಿಗೆ ಇಂಟರ್ನೆಟ್ ಮೂಲಾಂಶಗಳು",
+      "category": "internet",
+      "slides": [
+        {
+          "title": "What is the Internet?",
+          "kannadaTitle": "ಇಂಟರ್ನೆಟ್ ಎಂದರೇನು?",
+          "content": "The Internet is a global network of computers that allows people to share information and communicate. It connects millions of computers worldwide through cables, satellites, and wireless connections.",
+          "kannadaContent": "ಇಂಟರ್ನೆಟ್ ಎನ್ನುವುದು ಜನರು ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಮತ್ತು ಸಂವಹನ ನಡೆಸಲು ಅನುಮತಿಸುವ ಕಂಪ್ಯೂಟರ್‌ಗಳ ಜಾಗತಿಕ ನೆಟ್‌ವರ್ಕ್ ಆಗಿದೆ. ಇದು ಕೇಬಲ್‌ಗಳು, ಉಪಗ್ರಹಗಳು ಮತ್ತು ವೈರ್‌ಲೆಸ್ ಸಂಪರ್ಕಗಳ ಮೂಲಕ ವಿಶ್ವಾದ್ಯಂತ ಮಿಲಿಯನ್‌ಗಟ್ಟಲೆ ಕಂಪ್ಯೂಟರ್‌ಗಳನ್ನು ಸಂಪರ್ಕಿಸುತ್ತದೆ.",
+          "imageUrl": "internet-intro.jpg"
+        },
+        {
+          "title": "Connecting to the Internet",
+          "kannadaTitle": "ಇಂಟರ್ನೆಟ್‌ಗೆ ಸಂಪರ್ಕಿಸುವುದು",
+          "content": "You can connect to the internet using a mobile data plan or Wi-Fi. On your phone, go to Settings and turn on Mobile Data or connect to a Wi-Fi network by entering the password.",
+          "kannadaContent": "ನೀವು ಮೊಬೈಲ್ ಡೇಟಾ ಪ್ಲಾನ್ ಅಥವಾ ವೈ-ಫೈ ಬಳಸಿ ಇಂಟರ್ನೆಟ್‌ಗೆ ಸಂಪರ್ಕಿಸಬಹುದು. ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ, ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹೋಗಿ ಮತ್ತು ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಆನ್ ಮಾಡಿ ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸುವ ಮೂಲಕ ವೈ-ಫೈ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸಿ.",
+          "imageUrl": "internet-connect.jpg"
+        },
+        {
+          "title": "Using a Web Browser",
+          "kannadaTitle": "ವೆಬ್ ಬ್ರೌಸರ್ ಬಳಸುವುದು",
+          "content": "A web browser is an application used to access websites. Common browsers include Chrome, Safari, and Firefox. Open the browser and type the website address in the search bar at the top.",
+          "kannadaContent": "ವೆಬ್ ಬ್ರೌಸರ್ ಎನ್ನುವುದು ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ಬಳಸುವ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಸಾಮಾನ್ಯ ಬ್ರೌಸರ್‌ಗಳಲ್ಲಿ Chrome, Safari ಮತ್ತು Firefox ಸೇರಿವೆ. ಬ್ರೌಸರ್ ತೆರೆಯಿರಿ ಮತ್ತು ಮೇಲಿನ ಹುಡುಕಾಟ ಬಾರ್‌ನಲ್ಲಿ ವೆಬ್‌ಸೈಟ್ ವಿಳಾಸವನ್ನು ಟೈಪ್ ಮಾಡಿ.",
+          "imageUrl": "web-browser.jpg"
+        },
+        {
+          "title": "Searching for Information",
+          "kannadaTitle": "ಮಾಹಿತಿಗಾಗಿ ಹುಡುಕುವುದು",
+          "content": "Use search engines like Google to find information. Open your browser, go to google.com, type your question or keywords in the search box, and press Enter or tap the search icon.",
+          "kannadaContent": "ಮಾಹಿತಿ ಹುಡುಕಲು Google ನಂತಹ ಹುಡುಕಾಟ ಎಂಜಿನ್‌ಗಳನ್ನು ಬಳಸಿ. ನಿಮ್ಮ ಬ್ರೌಸರ್ ತೆರೆಯಿರಿ, google.com ಗೆ ಹೋಗಿ, ಹುಡುಕಾಟ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ನಿಮ್ಮ ಪ್ರಶ್ನೆ ಅಥವಾ ಕೀವರ್ಡ್‌ಗಳನ್ನು ಟೈಪ್ ಮಾಡಿ, ಮತ್ತು ಎಂಟರ್ ಒತ್ತಿ ಅಥವಾ ಹುಡುಕಾಟ ಐಕಾನ್ ಟ್ಯಾಪ್ ಮಾಡಿ.",
+          "imageUrl": "search-info.jpg"
+        },
+        {
+          "title": "Internet Safety",
+          "kannadaTitle": "ಇಂಟರ್ನೆಟ್ ಸುರಕ್ಷತೆ",
+          "content": "Be careful about sharing personal information online. Use strong passwords. Don't click on suspicious links. Be aware of phishing attempts asking for your bank details or passwords.",
+          "kannadaContent": "ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವ ಬಗ್ಗೆ ಎಚ್ಚರವಹಿಸಿ. ಬಲವಾದ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಬಳಸಿ. ಅನುಮಾನಾಸ್ಪದ ಲಿಂಕ್‌ಗಳನ್ನು ಕ್ಲಿಕ್ ಮಾಡಬೇಡಿ. ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ವಿವರಗಳು ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಕೇಳುವ ಫಿಶಿಂಗ್ ಪ್ರಯತ್ನಗಳ ಬಗ್ಗೆ ಎಚ್ಚರವಾಗಿರಿ.",
+          "imageUrl": "internet-safety.jpg"
+        }
+      ]
+    }
+  ]
+} 

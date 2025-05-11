@@ -1,0 +1,74 @@
+{
+  "mockCrops": [
+    {
+      "id": "1",
+      "name": "Rice (Paddy)",
+      "kannadaName": "ಭತ್ತ",
+      "description": "Rice is a staple food crop in Karnataka, especially in coastal and irrigated regions. It is one of the most important food crops.",
+      "kannadaDescription": "ಭತ್ತವು ಕರ್ನಾಟಕದಲ್ಲಿ, ವಿಶೇಷವಾಗಿ ಕರಾವಳಿ ಮತ್ತು ನೀರಾವರಿ ಪ್ರದೇಶಗಳಲ್ಲಿ ಪ್ರಮುಖ ಆಹಾರ ಬೆಳೆಯಾಗಿದೆ. ಇದು ಅತ್ಯಂತ ಮುಖ್ಯವಾದ ಆಹಾರ ಬೆಳೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ.",
+      "soilAndFertilizer": "Rice grows best in clay or clay loam soils with good water retention. Apply NPK fertilizers in recommended doses. Use organic manure before planting.",
+      "kannadaSoilAndFertilizer": "ಭತ್ತ ಉತ್ತಮ ನೀರು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಮಣ್ಣಿನ ಮಣ್ಣು ಅಥವಾ ಮಣ್ಣಿನ ಮಣ್ಣಿನಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ. ಶಿಫಾರಸು ಮಾಡಿದ ಪ್ರಮಾಣದಲ್ಲಿ NPK ರಸಗೊಬ್ಬರಗಳನ್ನು ಬಳಸಿ. ನೆಡುವ ಮೊದಲು ಸಾವಯವ ಗೊಬ್ಬರವನ್ನು ಬಳಸಿ.",
+      "cultivationTips": "Prepare nursery beds for sowing. Transplant seedlings after 20-25 days. Maintain water level of 2-5 cm during growth phase. Harvest when 80% of grains turn golden yellow.",
+      "kannadaCultivationTips": "ಬಿತ್ತನೆಗಾಗಿ ನಾರ್ಸರಿ ಹಾಸಿಗೆಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿ. 20-25 ದಿನಗಳ ನಂತರ ಸಸಿಗಳನ್ನು ಬದಲಾಯಿಸಿ. ಬೆಳವಣಿಗೆಯ ಹಂತದಲ್ಲಿ 2-5 ಸೆಂ.ಮೀ ನೀರಿನ ಮಟ್ಟವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ. 80% ಕಾಳುಗಳು ಚಿನ್ನದ ಹಳದಿಯಾಗುವಾಗ ಕೊಯ್ಲು ಮಾಡಿ.",
+      "season": ["kharif", "rabi"],
+      "waterRequirement": "high",
+      "temperature": "20-35°C"
+    },
+    {
+      "id": "2",
+      "name": "Ragi (Finger Millet)",
+      "kannadaName": "ರಾಗಿ",
+      "description": "Ragi is a nutritious millet crop that is drought-resistant and grows well in semi-arid regions of Karnataka.",
+      "kannadaDescription": "ರಾಗಿ ಒಂದು ಪೌಷ್ಟಿಕ ಸಿರಿಧಾನ್ಯ ಬೆಳೆಯಾಗಿದ್ದು, ಇದು ಬರ ನಿರೋಧಕವಾಗಿದೆ ಮತ್ತು ಕರ್ನಾಟಕದ ಅರೆ-ಶುಷ್ಕ ಪ್ರದೇಶಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "soilAndFertilizer": "Ragi grows well in red, lateritic, and sandy loam soils. Apply FYM before plowing. Use NPK in recommended doses.",
+      "kannadaSoilAndFertilizer": "ರಾಗಿ ಕೆಂಪು, ಲ್ಯಾಟರೈಟಿಕ್ ಮತ್ತು ಮರಳು ಮಣ್ಣಿನಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ. ಉಳುಮೆ ಮಾಡುವ ಮೊದಲು FYM ಅನ್ನು ಹಾಕಿ. ಶಿಫಾರಸು ಮಾಡಿದ ಪ್ರಮಾಣದಲ್ಲಿ NPK ಬಳಸಿ.",
+      "cultivationTips": "Prepare fine seedbed for nursery. Transplant 20-25 day old seedlings. Weed control is important in early stages. Harvest when earheads turn brown.",
+      "kannadaCultivationTips": "ನಾರ್ಸರಿಗಾಗಿ ನಯವಾದ ಬೀಜದ ಹಾಸಿಗೆಯನ್ನು ಸಿದ್ಧಪಡಿಸಿ. 20-25 ದಿನಗಳ ವಯಸ್ಸಿನ ಸಸಿಗಳನ್ನು ಬದಲಾಯಿಸಿ. ಆರಂಭಿಕ ಹಂತಗಳಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣವು ಮುಖ್ಯವಾಗಿದೆ. ಕಿವಿಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಿ.",
+      "season": ["kharif"],
+      "waterRequirement": "low",
+      "temperature": "20-30°C"
+    },
+    {
+      "id": "3",
+      "name": "Jowar (Sorghum)",
+      "kannadaName": "ಜೋಳ",
+      "description": "Jowar is a drought-resistant crop widely grown in the northern parts of Karnataka. It is used for both food and fodder.",
+      "kannadaDescription": "ಜೋಳ ಒಂದು ಬರ ನಿರೋಧಕ ಬೆಳೆಯಾಗಿದ್ದು, ಕರ್ನಾಟಕದ ಉತ್ತರ ಭಾಗಗಳಲ್ಲಿ ವ್ಯಾಪಕವಾಗಿ ಬೆಳೆಯಲಾಗುತ್ತದೆ. ಇದನ್ನು ಆಹಾರ ಮತ್ತು ಮೇವು ಎರಡಕ್ಕೂ ಬಳಸಲಾಗುತ್ತದೆ.",
+      "soilAndFertilizer": "Jowar grows well in well-drained, medium black soils. Apply FYM before sowing. Use balanced NPK fertilizers.",
+      "kannadaSoilAndFertilizer": "ಜೋಳ ಉತ್ತಮವಾಗಿ ಒಣಗಿಸಿದ, ಮಧ್ಯಮ ಕಪ್ಪು ಮಣ್ಣಿನಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ. ಬಿತ್ತನೆ ಮಾಡುವ ಮೊದಲು FYM ಅನ್ನು ಹಾಕಿ. ಸಮತೋಲಿತ NPK ರಸಗೊಬ್ಬರಗಳನ್ನು ಬಳಸಿ.",
+      "cultivationTips": "Sow seeds directly in rows. Thin seedlings after 15 days. Intercropping with pulses is beneficial. Harvest when grains are mature and hard.",
+      "kannadaCultivationTips": "ಬೀಜಗಳನ್ನು ನೇರವಾಗಿ ಸಾಲುಗಳಲ್ಲಿ ಬಿತ್ತಿ. 15 ದಿನಗಳ ನಂತರ ಸಸಿಗಳನ್ನು ತೆಳ್ಳಗಾಗಿಸಿ. ಬೇಳೆಕಾಳುಗಳೊಂದಿಗೆ ಅಂತರ-ಬೆಳೆ ಬೆಳೆಯುವುದು ಲಾಭದಾಯಕವಾಗಿದೆ. ಕಾಳುಗಳು ಪಕ್ವವಾಗಿ ಮತ್ತು ಗಟ್ಟಿಯಾದಾಗ ಕೊಯ್ಲು ಮಾಡಿ.",
+      "season": ["rabi"],
+      "waterRequirement": "low",
+      "temperature": "25-35°C"
+    },
+    {
+      "id": "4",
+      "name": "Groundnut",
+      "kannadaName": "ಕಡಲೇಕಾಯಿ",
+      "description": "Groundnut is an important oilseed crop in Karnataka, especially in the northern and central regions.",
+      "kannadaDescription": "ಕಡಲೇಕಾಯಿ ಕರ್ನಾಟಕದಲ್ಲಿ, ವಿಶೇಷವಾಗಿ ಉತ್ತರ ಮತ್ತು ಮಧ್ಯ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮುಖ್ಯವಾದ ಎಣ್ಣೆಕಾಳು ಬೆಳೆಯಾಗಿದೆ.",
+      "soilAndFertilizer": "Groundnut prefers well-drained, sandy loam or loamy soils. Apply gypsum for better pod development. Use Rhizobium inoculation for better nitrogen fixation.",
+      "kannadaSoilAndFertilizer": "ಕಡಲೇಕಾಯಿ ಉತ್ತಮವಾಗಿ ಒಣಗಿಸಿದ, ಮರಳು ಮಣ್ಣಿನ ಅಥವಾ ಮಣ್ಣಿನ ಮಣ್ಣನ್ನು ಇಷ್ಟಪಡುತ್ತದೆ. ಉತ್ತಮ ಕಾಯಿ ಬೆಳವಣಿಗೆಗಾಗಿ ಜಿಪ್ಸಂ ಹಾಕಿ. ಉತ್ತಮ ನೈಟ್ರೋಜನ್ ಸ್ಥಿರೀಕರಣಕ್ಕಾಗಿ ರೈಜೋಬಿಯಮ್ ಇನಾಕ್ಯುಲೇಶನ್ ಬಳಸಿ.",
+      "cultivationTips": "Sow seeds directly after sufficient rainfall. Plant in rows with adequate spacing. Earthing up is important for pod development. Harvest when plants start yellowing.",
+      "kannadaCultivationTips": "ಸಾಕಷ್ಟು ಮಳೆಯಾದ ನಂತರ ಬೀಜಗಳನ್ನು ನೇರವಾಗಿ ಬಿತ್ತಿ. ಸಾಕಷ್ಟು ಅಂತರದೊಂದಿಗೆ ಸಾಲುಗಳಲ್ಲಿ ನೆಡಿ. ಕಾಯಿ ಬೆಳವಣಿಗೆಗೆ ಮಣ್ಣು ಮೇಲೆತ್ತುವುದು ಮುಖ್ಯವಾಗಿದೆ. ಸಸಿಗಳು ಹಳದಿಯಾಗಲು ಆರಂಭಿಸಿದಾಗ ಕೊಯ್ಲು ಮಾಡಿ.",
+      "season": ["kharif"],
+      "waterRequirement": "medium",
+      "temperature": "25-30°C"
+    },
+    {
+      "id": "5",
+      "name": "Cotton",
+      "kannadaName": "ಹತ್ತಿ",
+      "description": "Cotton is a major commercial crop in northern Karnataka. It is grown for its fiber which is used in textiles.",
+      "kannadaDescription": "ಹತ್ತಿ ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಬೆಳೆಯಾಗಿದೆ. ಇದನ್ನು ಜವಳಿಗಳಲ್ಲಿ ಬಳಸಲಾಗುವ ನಾರಿಗಾಗಿ ಬೆಳೆಯಲಾಗುತ್ತದೆ.",
+      "soilAndFertilizer": "Cotton grows best in deep, well-drained black soils. Apply balanced fertilizers. Micronutrients like zinc and boron are important.",
+      "kannadaSoilAndFertilizer": "ಹತ್ತಿ ಆಳವಾದ, ಉತ್ತಮವಾಗಿ ಒಣಗಿಸಿದ ಕಪ್ಪು ಮಣ್ಣಿನಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ. ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರಗಳನ್ನು ಹಾಕಿ. ಜಿಂಕ್ ಮತ್ತು ಬೋರಾನ್ ನಂತಹ ಸೂಕ್ಷ್ಮಪೋಷಕಾಂಶಗಳು ಮುಖ್ಯವಾಗಿವೆ.",
+      "cultivationTips": "Sow seeds after first monsoon rains. Maintain optimal plant population. Integrated pest management is crucial. Pick cotton when bolls open fully.",
+      "kannadaCultivationTips": "ಮೊದಲ ಮುಂಗಾರು ಮಳೆಯ ನಂತರ ಬೀಜಗಳನ್ನು ಬಿತ್ತಿ. ಅನುಕೂಲಕರ ಸಸ್ಯ ಜನಸಂಖ್ಯೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ. ಸಮಗ್ರ ಕೀಟ ನಿರ್ವಹಣೆ ಮುಖ್ಯವಾಗಿದೆ. ಕಾಯಿಗಳು ಸಂಪೂರ್ಣವಾಗಿ ತೆರೆದಾಗ ಹತ್ತಿಯನ್ನು ಕೀಳಿ.",
+      "season": ["kharif"],
+      "waterRequirement": "medium",
+      "temperature": "25-35°C"
+    }
+  ]
+} 

@@ -1,0 +1,90 @@
+{
+  "moreInitialTutorials": [
+    {
+      "id": "smartphone-basics",
+      "title": "Using Your Smartphone",
+      "kannadaTitle": "ನಿಮ್ಮ ಸ್ಮಾರ್ಟ್‌ಫೋನ್ ಬಳಸುವುದು",
+      "category": "mobile",
+      "slides": [
+        {
+          "title": "Basic Phone Navigation",
+          "kannadaTitle": "ಮೂಲಭೂತ ಫೋನ್ ನ್ಯಾವಿಗೇಶನ್",
+          "content": "Learn how to navigate your phone by swiping, tapping, and using buttons. The home screen shows your apps, swipe up or down to see more apps, and use the back button to return to previous screens.",
+          "kannadaContent": "ಸ್ವೈಪ್ ಮಾಡುವ, ಟ್ಯಾಪ್ ಮಾಡುವ ಮತ್ತು ಬಟನ್‌ಗಳನ್ನು ಬಳಸುವ ಮೂಲಕ ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನ್ಯಾವಿಗೇಟ್ ಮಾಡುವ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ. ಹೋಮ್ ಸ್ಕ್ರೀನ್ ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ತೋರಿಸುತ್ತದೆ, ಹೆಚ್ಚಿನ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನೋಡಲು ಮೇಲಕ್ಕೆ ಅಥವಾ ಕೆಳಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ, ಮತ್ತು ಹಿಂದಿನ ಪರದೆಗಳಿಗೆ ಹಿಂತಿರುಗಲು ಬ್ಯಾಕ್ ಬಟನ್ ಬಳಸಿ.",
+          "imageUrl": "phone-navigation.jpg"
+        },
+        {
+          "title": "Making Phone Calls",
+          "kannadaTitle": "ಫೋನ್ ಕರೆಗಳನ್ನು ಮಾಡುವುದು",
+          "content": "To make a call, tap the phone icon, enter the number using the keypad, and tap the call button. To answer a call, swipe the green button. To end a call, tap the red button.",
+          "kannadaContent": "ಕರೆ ಮಾಡಲು, ಫೋನ್ ಐಕಾನ್ ಟ್ಯಾಪ್ ಮಾಡಿ, ಕೀಪ್ಯಾಡ್ ಬಳಸಿ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ, ಮತ್ತು ಕರೆ ಬಟನ್ ಟ್ಯಾಪ್ ಮಾಡಿ. ಕರೆಗೆ ಉತ್ತರಿಸಲು, ಹಸಿರು ಬಟನ್ ಸ್ವೈಪ್ ಮಾಡಿ. ಕರೆಯನ್ನು ಕೊನೆಗೊಳಿಸಲು, ಕೆಂಪು ಬಟನ್ ಟ್ಯಾಪ್ ಮಾಡಿ.",
+          "imageUrl": "making-calls.jpg"
+        },
+        {
+          "title": "Sending Text Messages",
+          "kannadaTitle": "ಪಠ್ಯ ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸುವುದು",
+          "content": "Open your messaging app, tap the new message icon, enter the recipient's number or select from contacts, type your message in the text field, and tap send.",
+          "kannadaContent": "ನಿಮ್ಮ ಮೆಸೇಜಿಂಗ್ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ, ಹೊಸ ಸಂದೇಶ ಐಕಾನ್ ಟ್ಯಾಪ್ ಮಾಡಿ, ಸ್ವೀಕರಿಸುವವರ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ ಅಥವಾ ಸಂಪರ್ಕಗಳಿಂದ ಆಯ್ಕೆ ಮಾಡಿ, ಪಠ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ನಿಮ್ಮ ಸಂದೇಶವನ್ನು ಟೈಪ್ ಮಾಡಿ, ಮತ್ತು ಕಳುಹಿಸು ಟ್ಯಾಪ್ ಮಾಡಿ.",
+          "imageUrl": "text-messages.jpg"
+        },
+        {
+          "title": "Taking Photos",
+          "kannadaTitle": "ಫೋಟೋಗಳನ್ನು ತೆಗೆಯುವುದು",
+          "content": "Open your camera app, frame your subject on the screen, and tap the capture button. To view your photos, open the gallery or photos app, where you can also edit, share, or delete photos.",
+          "kannadaContent": "ನಿಮ್ಮ ಕ್ಯಾಮರಾ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ, ಪರದೆಯಲ್ಲಿ ನಿಮ್ಮ ವಿಷಯವನ್ನು ಫ್ರೇಮ್ ಮಾಡಿ, ಮತ್ತು ಕ್ಯಾಪ್ಚರ್ ಬಟನ್ ಟ್ಯಾಪ್ ಮಾಡಿ. ನಿಮ್ಮ ಫೋಟೋಗಳನ್ನು ವೀಕ್ಷಿಸಲು, ಗ್ಯಾಲರಿ ಅಥವಾ ಫೋಟೋಗಳ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ, ಅಲ್ಲಿ ನೀವು ಫೋಟೋಗಳನ್ನು ಸಂಪಾದಿಸಬಹುದು, ಹಂಚಿಕೊಳ್ಳಬಹುದು ಅಥವಾ ಅಳಿಸಬಹುದು.",
+          "imageUrl": "taking-photos.jpg"
+        },
+        {
+          "title": "Installing Apps",
+          "kannadaTitle": "ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಸ್ಥಾಪಿಸುವುದು",
+          "content": "Open the Play Store (Android) or App Store (iPhone), search for the app you want, tap Install or Get, and follow the prompts. Some apps are free, while others may cost money.",
+          "kannadaContent": "Play Store (Android) ಅಥವಾ App Store (iPhone) ತೆರೆಯಿರಿ, ನೀವು ಬಯಸುವ ಅಪ್ಲಿಕೇಶನ್‌ಗಾಗಿ ಹುಡುಕಿ, ಸ್ಥಾಪಿಸಿ ಅಥವಾ ಪಡೆಯಿರಿ ಟ್ಯಾಪ್ ಮಾಡಿ, ಮತ್ತು ಪ್ರಾಂಪ್ಟ್‌ಗಳನ್ನು ಅನುಸರಿಸಿ. ಕೆಲವು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಉಚಿತವಾಗಿವೆ, ಇತರರು ಹಣ ವೆಚ್ಚ ಮಾಡಬಹುದು.",
+          "imageUrl": "installing-apps.jpg"
+        }
+      ]
+    },
+    {
+      "id": "online-safety",
+      "title": "Staying Safe Online",
+      "kannadaTitle": "ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿರುವುದು",
+      "category": "security",
+      "slides": [
+        {
+          "title": "Creating Strong Passwords",
+          "kannadaTitle": "ಬಲವಾದ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ರಚಿಸುವುದು",
+          "content": "Use long passwords with a mix of letters, numbers, and symbols. Avoid using personal information like birthdays or names. Use different passwords for different accounts. Consider using a password manager app.",
+          "kannadaContent": "ಅಕ್ಷರಗಳು, ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಚಿಹ್ನೆಗಳ ಮಿಶ್ರಣದೊಂದಿಗೆ ಉದ್ದನೆಯ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಬಳಸಿ. ಹುಟ್ಟುಹಬ್ಬಗಳು ಅಥವಾ ಹೆಸರುಗಳು ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಬಳಸುವುದನ್ನು ತಪ್ಪಿಸಿ. ವಿವಿಧ ಖಾತೆಗಳಿಗೆ ವಿಭಿನ್ನ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಬಳಸಿ. ಪಾಸ್‌ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಅಪ್ಲಿಕೇಶನ್ ಬಳಸುವ ಬಗ್ಗೆ ಪರಿಗಣಿಸಿ.",
+          "imageUrl": "strong-passwords.jpg"
+        },
+        {
+          "title": "Recognizing Scams",
+          "kannadaTitle": "ವಂಚನೆಗಳನ್ನು ಗುರುತಿಸುವುದು",
+          "content": "Be suspicious of unexpected messages or calls asking for personal information or money. Check for spelling mistakes and urgent requests in messages. Verify requests through official channels before responding.",
+          "kannadaContent": "ವೈಯಕ್ತಿಕ ಮಾಹಿತಿ ಅಥವಾ ಹಣವನ್ನು ಕೇಳುವ ಅನಿರೀಕ್ಷಿತ ಸಂದೇಶಗಳು ಅಥವಾ ಕರೆಗಳ ಬಗ್ಗೆ ಅನುಮಾನಿಸಿ. ಸಂದೇಶಗಳಲ್ಲಿ ಕಾಗುಣಿತ ತಪ್ಪುಗಳು ಮತ್ತು ತುರ್ತು ವಿನಂತಿಗಳನ್ನು ಪರಿಶೀಲಿಸಿ. ಪ್ರತಿಕ್ರಿಯಿಸುವ ಮೊದಲು ಅಧಿಕೃತ ಚಾನಲ್‌ಗಳ ಮೂಲಕ ವಿನಂತಿಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.",
+          "imageUrl": "recognizing-scams.jpg"
+        },
+        {
+          "title": "Protecting Personal Information",
+          "kannadaTitle": "ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ರಕ್ಷಿಸುವುದು",
+          "content": "Be careful about what personal information you share online. Don't post sensitive information like your home address, phone number, or ID details on social media or public forums.",
+          "kannadaContent": "ನೀವು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳುವ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯ ಬಗ್ಗೆ ಎಚ್ಚರವಹಿಸಿ. ನಿಮ್ಮ ಮನೆ ವಿಳಾಸ, ಫೋನ್ ಸಂಖ್ಯೆ, ಅಥವಾ ID ವಿವರಗಳು ಸೂಕ್ಷ್ಮ ಮಾಹಿತಿಯನ್ನು ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಅಥವಾ ಸಾರ್ವಜನಿಕ ವೇದಿಕೆಗಳಲ್ಲಿ ಪೋಸ್ಟ್ ಮಾಡಬೇಡಿ.",
+          "imageUrl": "personal-info.jpg"
+        },
+        {
+          "title": "Safe Banking Practices",
+          "kannadaTitle": "ಸುರಕ್ಷಿತ ಬ್ಯಾಂಕಿಂಗ್ ಅಭ್ಯಾಸಗಳು",
+          "content": "Always use official banking apps. Never share OTPs, PINs, or passwords. Log out after completing transactions. Use secure networks for banking, avoiding public Wi-Fi.",
+          "kannadaContent": "ಯಾವಾಗಲೂ ಅಧಿಕೃತ ಬ್ಯಾಂಕಿಂಗ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಬಳಸಿ. OTP ಗಳು, PIN ಗಳು, ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಎಂದಿಗೂ ಹಂಚಿಕೊಳ್ಳಬೇಡಿ. ವಹಿವಾಟುಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ ನಂತರ ಲಾಗ್ ಔಟ್ ಮಾಡಿ. ಸಾರ್ವಜನಿಕ ವೈ-ಫೈ ಅನ್ನು ತಪ್ಪಿಸಿ, ಬ್ಯಾಂಕಿಂಗ್‌ಗೆ ಸುರಕ್ಷಿತ ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ಬಳಸಿ.",
+          "imageUrl": "safe-banking.jpg"
+        },
+        {
+          "title": "Reporting Cyber Incidents",
+          "kannadaTitle": "ಸೈಬರ್ ಘಟನೆಗಳನ್ನು ವರದಿ ಮಾಡುವುದು",
+          "content": "If you become a victim of cybercrime, report it immediately. Contact your bank for financial fraud. File a complaint with local police and the cyber crime portal. Keep evidence like screenshots or messages.",
+          "kannadaContent": "ನೀವು ಸೈಬರ್ ಅಪರಾಧದ ಸಂತ್ರಸ್ತರಾದರೆ, ತಕ್ಷಣವೇ ವರದಿ ಮಾಡಿ. ಹಣಕಾಸು ವಂಚನೆಗಾಗಿ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ. ಸ್ಥಳೀಯ ಪೊಲೀಸ್ ಮತ್ತು ಸೈಬರ್ ಕ್ರೈಮ್ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ದೂರು ಸಲ್ಲಿಸಿ. ಸ್ಕ್ರೀನ್‌ಶಾಟ್‌ಗಳು ಅಥವಾ ಸಂದೇಶಗಳಂತಹ ಪುರಾವೆಗಳನ್ನು ಇಟ್ಟುಕೊಳ್ಳಿ.",
+          "imageUrl": "cyber-reporting.jpg"
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,50 @@
+{
+  "mockWeatherData": {
+    "temperature": 28,
+    "condition": "sunny",
+    "humidity": 65,
+    "windSpeed": 12,
+    "feelsLike": 30
+  },
+  "mockLocation": {
+    "name": "Bengaluru",
+    "region": "Karnataka"
+  },
+  "mockForecast": [
+    {
+      "date": "2025-06-15",
+      "condition": "sunny",
+      "highTemp": 31,
+      "lowTemp": 23,
+      "rainChance": 10
+    },
+    {
+      "date": "2025-06-16",
+      "condition": "partly cloudy",
+      "highTemp": 30,
+      "lowTemp": 22,
+      "rainChance": 20
+    },
+    {
+      "date": "2025-06-17",
+      "condition": "rainy",
+      "highTemp": 27,
+      "lowTemp": 21,
+      "rainChance": 70
+    },
+    {
+      "date": "2025-06-18",
+      "condition": "cloudy",
+      "highTemp": 29,
+      "lowTemp": 22,
+      "rainChance": 40
+    },
+    {
+      "date": "2025-06-19",
+      "condition": "sunny",
+      "highTemp": 32,
+      "lowTemp": 24,
+      "rainChance": 5
+    }
+  ]
+} 

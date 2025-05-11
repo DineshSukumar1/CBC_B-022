@@ -1,0 +1,2066 @@
+[
+  {
+    "id": "ef5af0f0-d571-45de-a037-dc48889b7706",
+    "timestamp": "2025-05-11T03:38:39.685143",
+    "image_url": "/detections/ef5af0f0-d571-45de-a037-dc48889b7706.jpg",
+    "disease_name": "Apple_Black_rot",
+    "confidence": 20.77455073595047,
+    "symptoms": "Purple spots on leaves that enlarge and develop brown centers. Rotting fruit with concentric rings of black pycnidia (fungal fruiting bodies). Cankers on branches with rough or cracked bark.",
+    "treatment": "Prune out infected branches at least 8 inches below visible infection. Apply fungicides containing captan, myclobutanil, or thiophanate-methyl according to label directions. Remove mummified fruits.",
+    "prevention": "Remove mummified fruits and cankers from trees. Prune regularly for good air circulation. Clean up fallen leaves and fruit at the end of the season.",
+    "recommendations": "Sanitize pruning tools between cuts with 10% bleach solution to prevent spread. Begin fungicide applications at bud break and continue at 10-14 day intervals during wet periods.",
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 19.38728541135788
+      },
+      {
+        "disease": "Tomato_Late_blight",
+        "confidence": 18.24333667755127
+      }
+    ]
+  },
+  {
+    "id": "31b71bd7-aeb5-430e-b998-269c4b7373d1",
+    "timestamp": "2025-05-11T03:40:09.745811",
+    "image_url": "/detections/31b71bd7-aeb5-430e-b998-269c4b7373d1.jpg",
+    "disease_name": "Apple_Black_rot",
+    "confidence": 20.77455073595047,
+    "symptoms": "Purple spots on leaves that enlarge and develop brown centers. Rotting fruit with concentric rings of black pycnidia (fungal fruiting bodies). Cankers on branches with rough or cracked bark.",
+    "treatment": "Prune out infected branches at least 8 inches below visible infection. Apply fungicides containing captan, myclobutanil, or thiophanate-methyl according to label directions. Remove mummified fruits.",
+    "prevention": "Remove mummified fruits and cankers from trees. Prune regularly for good air circulation. Clean up fallen leaves and fruit at the end of the season.",
+    "recommendations": "Sanitize pruning tools between cuts with 10% bleach solution to prevent spread. Begin fungicide applications at bud break and continue at 10-14 day intervals during wet periods.",
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 19.38728541135788
+      },
+      {
+        "disease": "Tomato_Late_blight",
+        "confidence": 18.24333667755127
+      }
+    ]
+  },
+  {
+    "id": "842ccce4-815c-4950-bb25-437846c6f7e0",
+    "timestamp": "2025-05-11T03:42:26.465946",
+    "image_url": "/detections/842ccce4-815c-4950-bb25-437846c6f7e0.jpg",
+    "disease_name": "Apple_Black_rot",
+    "confidence": 20.77455073595047,
+    "symptoms": "Purple spots on leaves that enlarge and develop brown centers. Rotting fruit with concentric rings of black pycnidia (fungal fruiting bodies). Cankers on branches with rough or cracked bark.",
+    "treatment": "Prune out infected branches at least 8 inches below visible infection. Apply fungicides containing captan, myclobutanil, or thiophanate-methyl according to label directions. Remove mummified fruits.",
+    "prevention": "Remove mummified fruits and cankers from trees. Prune regularly for good air circulation. Clean up fallen leaves and fruit at the end of the season.",
+    "recommendations": "Sanitize pruning tools between cuts with 10% bleach solution to prevent spread. Begin fungicide applications at bud break and continue at 10-14 day intervals during wet periods.",
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 19.38728541135788
+      },
+      {
+        "disease": "Tomato_Late_blight",
+        "confidence": 18.24333667755127
+      }
+    ]
+  },
+  {
+    "id": "b2ed0264-6c10-4c28-b59a-88860655c39c",
+    "timestamp": "2025-05-11T04:14:13.779210",
+    "image_url": "/detections/b2ed0264-6c10-4c28-b59a-88860655c39c.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "cab8937d-7460-4b9c-b8a1-c7c50d263270",
+    "timestamp": "2025-05-11T04:27:58.123267",
+    "image_url": "/detections/cab8937d-7460-4b9c-b8a1-c7c50d263270.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "cf15f7b2-6a5e-451b-9024-dead1aaf26ba",
+    "timestamp": "2025-05-11T04:28:01.698817",
+    "image_url": "/detections/cf15f7b2-6a5e-451b-9024-dead1aaf26ba.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "a7e5cc9e-df20-4c65-ae2a-78f53c6c7130",
+    "timestamp": "2025-05-11T04:28:03.915888",
+    "image_url": "/detections/a7e5cc9e-df20-4c65-ae2a-78f53c6c7130.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "e0f35c28-3f6c-49a2-97cf-14af64ef4098",
+    "timestamp": "2025-05-11T04:28:05.028432",
+    "image_url": "/detections/e0f35c28-3f6c-49a2-97cf-14af64ef4098.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "200e039d-7981-4c52-b649-487c55d5ed32",
+    "timestamp": "2025-05-11T04:28:05.835579",
+    "image_url": "/detections/200e039d-7981-4c52-b649-487c55d5ed32.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "00d29322-91eb-4f4e-9359-a7ec58c0ef19",
+    "timestamp": "2025-05-11T04:28:06.748551",
+    "image_url": "/detections/00d29322-91eb-4f4e-9359-a7ec58c0ef19.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "8556030f-1897-43ea-af18-669b4defa40b",
+    "timestamp": "2025-05-11T04:28:07.478666",
+    "image_url": "/detections/8556030f-1897-43ea-af18-669b4defa40b.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "eefddfe6-3d13-4f42-9065-0d9bf3b0b688",
+    "timestamp": "2025-05-11T04:28:08.231701",
+    "image_url": "/detections/eefddfe6-3d13-4f42-9065-0d9bf3b0b688.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.197810613914115,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "76b34697-0f0b-4d22-94cb-25a52dac8f94",
+    "timestamp": "2025-05-11T04:28:08.694223",
+    "image_url": "/detections/76b34697-0f0b-4d22-94cb-25a52dac8f94.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "37074afb-cb6d-4a80-bfaf-c1b69cd573ff",
+    "timestamp": "2025-05-11T04:28:09.328436",
+    "image_url": "/detections/37074afb-cb6d-4a80-bfaf-c1b69cd573ff.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "178cc801-679d-4e15-82bb-329d72781ba3",
+    "timestamp": "2025-05-11T04:28:09.858954",
+    "image_url": "/detections/178cc801-679d-4e15-82bb-329d72781ba3.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "7cb0fd78-b811-4079-bf58-53998e0246b1",
+    "timestamp": "2025-05-11T04:28:10.401278",
+    "image_url": "/detections/7cb0fd78-b811-4079-bf58-53998e0246b1.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "6e81c024-2d76-4d4b-86c5-3ea6976533e6",
+    "timestamp": "2025-05-11T04:28:10.950833",
+    "image_url": "/detections/6e81c024-2d76-4d4b-86c5-3ea6976533e6.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "536a588b-a851-486a-b462-ffc525afd486",
+    "timestamp": "2025-05-11T04:28:11.582356",
+    "image_url": "/detections/536a588b-a851-486a-b462-ffc525afd486.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "cdcd7294-fd56-4e9b-8587-9e7f9551edc5",
+    "timestamp": "2025-05-11T04:28:12.102384",
+    "image_url": "/detections/cdcd7294-fd56-4e9b-8587-9e7f9551edc5.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "79b7ce28-6bba-4fbd-8b9f-bdd0797989a1",
+    "timestamp": "2025-05-11T04:28:12.650906",
+    "image_url": "/detections/79b7ce28-6bba-4fbd-8b9f-bdd0797989a1.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "62512c3d-073c-41c8-817e-b0fa9bec8767",
+    "timestamp": "2025-05-11T04:28:29.824617",
+    "image_url": "/detections/62512c3d-073c-41c8-817e-b0fa9bec8767.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "67472faf-73d4-4a4b-926f-56261f0ac0d2",
+    "timestamp": "2025-05-11T04:28:31.393674",
+    "image_url": "/detections/67472faf-73d4-4a4b-926f-56261f0ac0d2.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "d10d8081-c9cb-4022-a8df-0cc4b1e2ad89",
+    "timestamp": "2025-05-11T04:28:32.097216",
+    "image_url": "/detections/d10d8081-c9cb-4022-a8df-0cc4b1e2ad89.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "4b84c52a-b694-487d-be11-e0654164ee63",
+    "timestamp": "2025-05-11T04:28:32.762387",
+    "image_url": "/detections/4b84c52a-b694-487d-be11-e0654164ee63.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "aacd00d3-2224-4619-8efb-2fe13e04cb67",
+    "timestamp": "2025-05-11T04:28:33.384913",
+    "image_url": "/detections/aacd00d3-2224-4619-8efb-2fe13e04cb67.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "9a08e7b4-6827-481a-bfa7-b627df381e4c",
+    "timestamp": "2025-05-11T04:28:33.985459",
+    "image_url": "/detections/9a08e7b4-6827-481a-bfa7-b627df381e4c.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "82219680-3f2b-444b-9ea4-2a2e21e62d42",
+    "timestamp": "2025-05-11T04:28:34.419038",
+    "image_url": "/detections/82219680-3f2b-444b-9ea4-2a2e21e62d42.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "dbe19be8-7e7f-420e-adbf-5f532afed45a",
+    "timestamp": "2025-05-11T04:28:34.784000",
+    "image_url": "/detections/dbe19be8-7e7f-420e-adbf-5f532afed45a.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "f75f5b04-c44b-4dce-89ef-2f3a48e95afd",
+    "timestamp": "2025-05-11T04:28:35.056601",
+    "image_url": "/detections/f75f5b04-c44b-4dce-89ef-2f3a48e95afd.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "96e3383e-7aa9-4fd2-a507-0db7074771e4",
+    "timestamp": "2025-05-11T04:28:35.642091",
+    "image_url": "/detections/96e3383e-7aa9-4fd2-a507-0db7074771e4.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "406d4d3a-e2e2-465b-8601-0a4e208dbf06",
+    "timestamp": "2025-05-11T04:28:36.065355",
+    "image_url": "/detections/406d4d3a-e2e2-465b-8601-0a4e208dbf06.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.46416604671924,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "896d2472-e2a9-4c4a-8d80-59bc7560ab10",
+    "timestamp": "2025-05-11T04:28:36.614862",
+    "image_url": "/detections/896d2472-e2a9-4c4a-8d80-59bc7560ab10.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "04fa8751-c190-49c5-b15e-bedbfa498a54",
+    "timestamp": "2025-05-11T04:28:40.994553",
+    "image_url": "/detections/04fa8751-c190-49c5-b15e-bedbfa498a54.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "0db33a2f-33f2-4e56-b893-f4518ec7cdcf",
+    "timestamp": "2025-05-11T04:28:41.497979",
+    "image_url": "/detections/0db33a2f-33f2-4e56-b893-f4518ec7cdcf.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "ac363447-3f2b-4c5d-8d1d-7dc2d158fba4",
+    "timestamp": "2025-05-11T04:28:42.213217",
+    "image_url": "/detections/ac363447-3f2b-4c5d-8d1d-7dc2d158fba4.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "9f706c33-34cb-4bf9-9b62-be9ae8971cc5",
+    "timestamp": "2025-05-11T04:28:42.603617",
+    "image_url": "/detections/9f706c33-34cb-4bf9-9b62-be9ae8971cc5.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "4a58120e-0916-4eeb-811c-c7b11c8aefe4",
+    "timestamp": "2025-05-11T04:28:42.959242",
+    "image_url": "/detections/4a58120e-0916-4eeb-811c-c7b11c8aefe4.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "89bcf6ee-abea-40d7-8dd6-7166b3d55c0b",
+    "timestamp": "2025-05-11T04:28:43.250548",
+    "image_url": "/detections/89bcf6ee-abea-40d7-8dd6-7166b3d55c0b.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "f2f8b1b0-35b8-4b88-88ad-58bbec387bc6",
+    "timestamp": "2025-05-11T04:28:43.573654",
+    "image_url": "/detections/f2f8b1b0-35b8-4b88-88ad-58bbec387bc6.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "9dd7341f-5710-45f8-8be4-dcd21b8488b3",
+    "timestamp": "2025-05-11T04:28:43.932942",
+    "image_url": "/detections/9dd7341f-5710-45f8-8be4-dcd21b8488b3.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "28876325-9a08-450c-85ad-e674d62967da",
+    "timestamp": "2025-05-11T04:28:44.471965",
+    "image_url": "/detections/28876325-9a08-450c-85ad-e674d62967da.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 41.464166046719235,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 15.227012987012985
+      },
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 14.365079365079364
+      }
+    ]
+  },
+  {
+    "id": "bf703ab8-00f5-454d-a659-541d28a1a9cb",
+    "timestamp": "2025-05-11T04:30:00.542976",
+    "image_url": "/detections/bf703ab8-00f5-454d-a659-541d28a1a9cb.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 23.69567160090245,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Late Blight",
+        "confidence": 20.206857628054323
+      },
+      {
+        "disease": "Botrytis Blight",
+        "confidence": 11.606895931776709
+      }
+    ]
+  },
+  {
+    "id": "7ce74a25-e305-4c77-ad80-c243a080b7fe",
+    "timestamp": "2025-05-11T04:30:02.170501",
+    "image_url": "/detections/7ce74a25-e305-4c77-ad80-c243a080b7fe.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 23.69567160090245,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Late Blight",
+        "confidence": 20.206857628054323
+      },
+      {
+        "disease": "Botrytis Blight",
+        "confidence": 11.606895931776709
+      }
+    ]
+  },
+  {
+    "id": "b7036337-b819-43cd-a982-1da37d90159f",
+    "timestamp": "2025-05-11T04:30:02.987143",
+    "image_url": "/detections/b7036337-b819-43cd-a982-1da37d90159f.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 23.69567160090245,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Late Blight",
+        "confidence": 20.206857628054323
+      },
+      {
+        "disease": "Botrytis Blight",
+        "confidence": 11.606895931776709
+      }
+    ]
+  },
+  {
+    "id": "5b5cb7ef-093d-486c-a604-86142f921a4b",
+    "timestamp": "2025-05-11T04:30:03.607419",
+    "image_url": "/detections/5b5cb7ef-093d-486c-a604-86142f921a4b.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 23.69567160090245,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Late Blight",
+        "confidence": 20.206857628054323
+      },
+      {
+        "disease": "Botrytis Blight",
+        "confidence": 11.606895931776709
+      }
+    ]
+  },
+  {
+    "id": "a193e562-1719-4a08-b88a-d85b92197062",
+    "timestamp": "2025-05-11T04:30:18.137107",
+    "image_url": "/detections/a193e562-1719-4a08-b88a-d85b92197062.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "398dcec5-d201-4163-893b-8b7946dfbff6",
+    "timestamp": "2025-05-11T04:30:19.152177",
+    "image_url": "/detections/398dcec5-d201-4163-893b-8b7946dfbff6.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.197810613914115,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "ed1ac8f3-2045-498b-a997-86da282e7f5c",
+    "timestamp": "2025-05-11T04:30:19.873241",
+    "image_url": "/detections/ed1ac8f3-2045-498b-a997-86da282e7f5c.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.197810613914115,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "412ad622-1eec-43ae-9a8e-f268ac448654",
+    "timestamp": "2025-05-11T04:30:20.247540",
+    "image_url": "/detections/412ad622-1eec-43ae-9a8e-f268ac448654.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "6b02d0f4-fcf2-402d-8415-adee895d105c",
+    "timestamp": "2025-05-11T04:30:20.484781",
+    "image_url": "/detections/6b02d0f4-fcf2-402d-8415-adee895d105c.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.197810613914115,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "fb844748-d955-4a29-985a-085d1e1ed4d2",
+    "timestamp": "2025-05-11T04:30:20.886890",
+    "image_url": "/detections/fb844748-d955-4a29-985a-085d1e1ed4d2.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "01691aed-7861-462d-bc4b-1f975f0d64c3",
+    "timestamp": "2025-05-11T04:30:21.298523",
+    "image_url": "/detections/01691aed-7861-462d-bc4b-1f975f0d64c3.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "a6dca7b5-2bfa-4a9a-ab44-6de6bdd310e4",
+    "timestamp": "2025-05-11T04:30:21.674054",
+    "image_url": "/detections/a6dca7b5-2bfa-4a9a-ab44-6de6bdd310e4.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386967
+      }
+    ]
+  },
+  {
+    "id": "0608d1fd-1b05-4fff-97a4-f5f1d7045cec",
+    "timestamp": "2025-05-11T04:30:22.114377",
+    "image_url": "/detections/0608d1fd-1b05-4fff-97a4-f5f1d7045cec.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "d800faf2-a330-441e-a31c-e85d3a07df83",
+    "timestamp": "2025-05-11T04:30:22.579315",
+    "image_url": "/detections/d800faf2-a330-441e-a31c-e85d3a07df83.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 19.19781061391411,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Tomato_Healthy",
+        "confidence": 17.65034965034965
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.239356825386965
+      }
+    ]
+  },
+  {
+    "id": "33d62925-3b4a-498b-a376-972f35e5dbae",
+    "timestamp": "2025-05-11T04:30:57.909005",
+    "image_url": "/detections/33d62925-3b4a-498b-a376-972f35e5dbae.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 25.65364157119476,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 22.450356125356123
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.170570406740621
+      }
+    ]
+  },
+  {
+    "id": "c4e79de1-0346-421d-bb1a-9faca5a443be",
+    "timestamp": "2025-05-11T04:30:59.230004",
+    "image_url": "/detections/c4e79de1-0346-421d-bb1a-9faca5a443be.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 25.65364157119476,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 22.450356125356123
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.170570406740621
+      }
+    ]
+  },
+  {
+    "id": "59fcbe82-fd79-451c-a8e1-4f49e019201a",
+    "timestamp": "2025-05-11T04:30:59.939049",
+    "image_url": "/detections/59fcbe82-fd79-451c-a8e1-4f49e019201a.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 25.65364157119476,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 22.450356125356123
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.170570406740621
+      }
+    ]
+  },
+  {
+    "id": "c10e6404-6238-4701-b168-1a03f46ae39f",
+    "timestamp": "2025-05-11T04:31:00.415571",
+    "image_url": "/detections/c10e6404-6238-4701-b168-1a03f46ae39f.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 25.65364157119476,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 22.450356125356123
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.170570406740621
+      }
+    ]
+  },
+  {
+    "id": "3dbaa3dc-ed9c-4f27-934e-58c8c6442ec7",
+    "timestamp": "2025-05-11T04:31:01.028101",
+    "image_url": "/detections/3dbaa3dc-ed9c-4f27-934e-58c8c6442ec7.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 25.65364157119476,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 22.450356125356123
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 14.170570406740621
+      }
+    ]
+  },
+  {
+    "id": "04d049e7-552b-4127-a456-af2ece66cb7e",
+    "timestamp": "2025-05-11T04:31:08.430398",
+    "image_url": "/detections/04d049e7-552b-4127-a456-af2ece66cb7e.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 16.746523591351178,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Late Blight",
+        "confidence": 14.724030758513514
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 13.931938304352098
+      }
+    ]
+  },
+  {
+    "id": "c392e74a-673e-4005-ac20-c63ed0d31f5e",
+    "timestamp": "2025-05-11T04:31:15.936569",
+    "image_url": "/detections/c392e74a-673e-4005-ac20-c63ed0d31f5e.jpg",
+    "disease_name": "Leaf Blight",
+    "confidence": 31.696428571428577,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Corn_Healthy",
+        "confidence": 16.76190476190476
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 12.70289855072464
+      }
+    ]
+  },
+  {
+    "id": "109bcce6-7693-41a4-ae0e-a710057264eb",
+    "timestamp": "2025-05-11T04:31:26.833347",
+    "image_url": "/detections/109bcce6-7693-41a4-ae0e-a710057264eb.jpg",
+    "disease_name": "Leaf Blight",
+    "confidence": 31.696428571428577,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Corn_Healthy",
+        "confidence": 16.76190476190476
+      },
+      {
+        "disease": "Early Blight",
+        "confidence": 12.70289855072464
+      }
+    ]
+  },
+  {
+    "id": "80eabd4d-5ae9-4d4a-beb4-46bd4b54b324",
+    "timestamp": "2025-05-11T04:50:18.408714",
+    "image_url": "/detections/80eabd4d-5ae9-4d4a-beb4-46bd4b54b324.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 21.345136414236585,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Botrytis Blight",
+        "confidence": 16.263157894736842
+      },
+      {
+        "disease": "Late Blight",
+        "confidence": 15.946904792999868
+      }
+    ]
+  },
+  {
+    "id": "857c51d5-fc71-4bfa-bdb5-4f02b0e2688a",
+    "timestamp": "2025-05-11T05:07:13.682797",
+    "image_url": "/detections/857c51d5-fc71-4bfa-bdb5-4f02b0e2688a.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 21.345136414236585,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Botrytis Blight",
+        "confidence": 16.263157894736842
+      },
+      {
+        "disease": "Late Blight",
+        "confidence": 15.946904792999868
+      }
+    ]
+  },
+  {
+    "id": "a0a8d15a-16b7-490b-8d12-f55a05497209",
+    "timestamp": "2025-05-11T06:07:01.805518",
+    "image_url": "/detections/a0a8d15a-16b7-490b-8d12-f55a05497209.jpg",
+    "disease_name": "Botrytis Blight",
+    "confidence": 26.181818181818183,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 12.90246259117227
+      },
+      {
+        "disease": "Corn_Healthy",
+        "confidence": 12.882697947214075
+      }
+    ]
+  },
+  {
+    "id": "e272b3fb-dd59-492f-8c77-ff17b1531994",
+    "timestamp": "2025-05-11T06:07:12.774020",
+    "image_url": "/detections/e272b3fb-dd59-492f-8c77-ff17b1531994.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 21.345136414236585,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Botrytis Blight",
+        "confidence": 16.263157894736842
+      },
+      {
+        "disease": "Late Blight",
+        "confidence": 15.946904792999868
+      }
+    ]
+  },
+  {
+    "id": "fcbf2666-0c9a-4266-9ef8-e9a6aa8b22e8",
+    "timestamp": "2025-05-11T07:43:32.974245",
+    "image_url": "/detections/fcbf2666-0c9a-4266-9ef8-e9a6aa8b22e8.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 32.43720190779015,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Pepper_Healthy",
+        "confidence": 16.666666666666668
+      },
+      {
+        "disease": "Botrytis Blight",
+        "confidence": 11.053665430136018
+      }
+    ]
+  },
+  {
+    "id": "5db36fbb-a077-4925-bbe3-880dd48d28e8",
+    "timestamp": "2025-05-11T07:43:43.852912",
+    "image_url": "/detections/5db36fbb-a077-4925-bbe3-880dd48d28e8.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 44.37320347683326,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Root Rot",
+        "confidence": 12.85654288678734
+      },
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 11.133333333333333
+      }
+    ]
+  },
+  {
+    "id": "c80ce011-e893-411b-9b81-153948e6bf3a",
+    "timestamp": "2025-05-11T07:43:50.249436",
+    "image_url": "/detections/c80ce011-e893-411b-9b81-153948e6bf3a.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 57.36869415467688,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 6.290785907859078
+      },
+      {
+        "disease": "Pepper_Healthy",
+        "confidence": 6.197560975609756
+      }
+    ]
+  },
+  {
+    "id": "21900dc4-e96a-414c-bc47-fe352ecaa59d",
+    "timestamp": "2025-05-11T07:43:57.830554",
+    "image_url": "/detections/21900dc4-e96a-414c-bc47-fe352ecaa59d.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 24.636494908040735,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 15.509803921568627
+      },
+      {
+        "disease": "Late Blight",
+        "confidence": 7.362745098039217
+      }
+    ]
+  },
+  {
+    "id": "4ee4d450-f7c2-4c72-95e5-05f07bcf0974",
+    "timestamp": "2025-05-11T07:44:04.430521",
+    "image_url": "/detections/4ee4d450-f7c2-4c72-95e5-05f07bcf0974.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 45.80065445722542,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 13.066666666666665
+      },
+      {
+        "disease": "Root Rot",
+        "confidence": 11.25654288678734
+      }
+    ]
+  },
+  {
+    "id": "a7bb83e5-b139-4b2a-8085-11771d6db1d2",
+    "timestamp": "2025-05-11T07:44:05.509443",
+    "image_url": "/detections/a7bb83e5-b139-4b2a-8085-11771d6db1d2.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 45.80065445722542,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 13.066666666666665
+      },
+      {
+        "disease": "Root Rot",
+        "confidence": 11.25654288678734
+      }
+    ]
+  },
+  {
+    "id": "605a84e1-4b46-472e-bd30-4be54c531331",
+    "timestamp": "2025-05-11T07:44:06.371766",
+    "image_url": "/detections/605a84e1-4b46-472e-bd30-4be54c531331.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 45.80065445722542,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 13.066666666666665
+      },
+      {
+        "disease": "Root Rot",
+        "confidence": 11.25654288678734
+      }
+    ]
+  },
+  {
+    "id": "2517b268-ec51-4644-9e6b-51f9d14f828f",
+    "timestamp": "2025-05-11T07:44:07.053799",
+    "image_url": "/detections/2517b268-ec51-4644-9e6b-51f9d14f828f.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 45.80065445722542,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 13.066666666666665
+      },
+      {
+        "disease": "Root Rot",
+        "confidence": 11.25654288678734
+      }
+    ]
+  },
+  {
+    "id": "384cca03-84b0-4d93-aa36-570ceb33a870",
+    "timestamp": "2025-05-11T07:44:07.699701",
+    "image_url": "/detections/384cca03-84b0-4d93-aa36-570ceb33a870.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 45.80065445722542,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 13.066666666666665
+      },
+      {
+        "disease": "Root Rot",
+        "confidence": 11.25654288678734
+      }
+    ]
+  },
+  {
+    "id": "8810cd32-dbc4-4fea-8094-340af28c5df9",
+    "timestamp": "2025-05-11T07:44:08.327041",
+    "image_url": "/detections/8810cd32-dbc4-4fea-8094-340af28c5df9.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 45.80065445722542,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 13.066666666666665
+      },
+      {
+        "disease": "Root Rot",
+        "confidence": 11.25654288678734
+      }
+    ]
+  },
+  {
+    "id": "20338d46-f669-4102-a3a1-f2392ffbee36",
+    "timestamp": "2025-05-11T07:44:08.941416",
+    "image_url": "/detections/20338d46-f669-4102-a3a1-f2392ffbee36.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 45.80065445722542,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 13.066666666666665
+      },
+      {
+        "disease": "Root Rot",
+        "confidence": 11.25654288678734
+      }
+    ]
+  },
+  {
+    "id": "5482ac66-7e3e-40af-985f-a82169e81285",
+    "timestamp": "2025-05-11T07:44:09.539382",
+    "image_url": "/detections/5482ac66-7e3e-40af-985f-a82169e81285.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 45.80065445722542,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 13.066666666666665
+      },
+      {
+        "disease": "Root Rot",
+        "confidence": 11.25654288678734
+      }
+    ]
+  },
+  {
+    "id": "b0d175b8-393d-419b-8a88-d8da3ed07fad",
+    "timestamp": "2025-05-11T07:44:16.581107",
+    "image_url": "/detections/b0d175b8-393d-419b-8a88-d8da3ed07fad.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 32.43720190779014,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Pepper_Healthy",
+        "confidence": 16.666666666666668
+      },
+      {
+        "disease": "Botrytis Blight",
+        "confidence": 11.053665430136018
+      }
+    ]
+  },
+  {
+    "id": "6f579220-b211-49f0-b855-e428cca2f824",
+    "timestamp": "2025-05-11T07:44:25.385121",
+    "image_url": "/detections/6f579220-b211-49f0-b855-e428cca2f824.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 57.36869415467688,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 6.29078590785908
+      },
+      {
+        "disease": "Pepper_Healthy",
+        "confidence": 6.197560975609756
+      }
+    ]
+  },
+  {
+    "id": "3003fb13-cb83-4d41-ae1a-0eaee9f0d4e2",
+    "timestamp": "2025-05-11T07:44:32.682284",
+    "image_url": "/detections/3003fb13-cb83-4d41-ae1a-0eaee9f0d4e2.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 45.80065445722542,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 13.066666666666665
+      },
+      {
+        "disease": "Root Rot",
+        "confidence": 11.25654288678734
+      }
+    ]
+  },
+  {
+    "id": "269e281c-6060-4ad9-a245-2249c869c712",
+    "timestamp": "2025-05-11T07:44:41.123188",
+    "image_url": "/detections/269e281c-6060-4ad9-a245-2249c869c712.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 24.636494908040735,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 15.509803921568627
+      },
+      {
+        "disease": "Late Blight",
+        "confidence": 7.362745098039217
+      }
+    ]
+  },
+  {
+    "id": "e0aad83f-8c41-4829-a160-77cbe1f744c0",
+    "timestamp": "2025-05-11T07:44:42.343907",
+    "image_url": "/detections/e0aad83f-8c41-4829-a160-77cbe1f744c0.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 24.636494908040735,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 15.509803921568627
+      },
+      {
+        "disease": "Late Blight",
+        "confidence": 7.362745098039217
+      }
+    ]
+  },
+  {
+    "id": "8f3a8690-1a78-4cc1-b5cf-a21455dbbc53",
+    "timestamp": "2025-05-11T07:44:43.067699",
+    "image_url": "/detections/8f3a8690-1a78-4cc1-b5cf-a21455dbbc53.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 24.636494908040735,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 15.509803921568627
+      },
+      {
+        "disease": "Late Blight",
+        "confidence": 7.362745098039217
+      }
+    ]
+  },
+  {
+    "id": "eab7ae7e-3f93-4c93-af21-521ebf6e4766",
+    "timestamp": "2025-05-11T07:44:43.707894",
+    "image_url": "/detections/eab7ae7e-3f93-4c93-af21-521ebf6e4766.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 24.636494908040735,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Leaf Blight",
+        "confidence": 15.509803921568627
+      },
+      {
+        "disease": "Late Blight",
+        "confidence": 7.362745098039217
+      }
+    ]
+  },
+  {
+    "id": "f90874f4-7245-46e5-b5b9-71099309ebc3",
+    "timestamp": "2025-05-11T07:44:51.360561",
+    "image_url": "/detections/f90874f4-7245-46e5-b5b9-71099309ebc3.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 44.37320347683327,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Root Rot",
+        "confidence": 12.85654288678734
+      },
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 11.133333333333333
+      }
+    ]
+  },
+  {
+    "id": "07614dae-e35f-4833-a1bc-3651d9067cad",
+    "timestamp": "2025-05-11T07:49:10.760121",
+    "image_url": "/detections/07614dae-e35f-4833-a1bc-3651d9067cad.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 35.72929115728304,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Potato_Healthy",
+        "confidence": 16.25078369905956
+      },
+      {
+        "disease": "Pepper_Healthy",
+        "confidence": 13.750052246603971
+      }
+    ]
+  },
+  {
+    "id": "a01c0b71-a0a9-4dfb-bf75-4579f57cf9f5",
+    "timestamp": "2025-05-11T07:49:17.766182",
+    "image_url": "/detections/a01c0b71-a0a9-4dfb-bf75-4579f57cf9f5.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 32.43720190779015,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Pepper_Healthy",
+        "confidence": 16.666666666666668
+      },
+      {
+        "disease": "Botrytis Blight",
+        "confidence": 11.053665430136018
+      }
+    ]
+  },
+  {
+    "id": "f8801811-f8b3-4d35-af13-2774c958ab77",
+    "timestamp": "2025-05-11T07:49:25.085686",
+    "image_url": "/detections/f8801811-f8b3-4d35-af13-2774c958ab77.jpg",
+    "disease_name": "Early Blight",
+    "confidence": 45.80065445722542,
+    "description": "Information not available",
+    "symptoms": "Information not available",
+    "causes": "Information not available",
+    "treatment": "Information not available",
+    "prevention": "Information not available",
+    "supplements": [],
+    "alternative_predictions": [
+      {
+        "disease": "Apple_Healthy",
+        "confidence": 13.066666666666665
+      },
+      {
+        "disease": "Root Rot",
+        "confidence": 11.25654288678734
+      }
+    ]
+  }
+]
